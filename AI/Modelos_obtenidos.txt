@@ -1,0 +1,72 @@
+--- Starting trial: run-0
+{'num_units': 16, 'dropout': 0.1, 'optimizer': 'adam', 'learning_rate': 0.001}
+313/313 [==============================] - 1s 1ms/step - loss: 1.2259 - accuracy: 0.5372
+--- Starting trial: run-1
+{'num_units': 16, 'dropout': 0.1, 'optimizer': 'adam', 'learning_rate': 0.01}
+313/313 [==============================] - 1s 990us/step - loss: 1.6562 - accuracy: 0.2939
+--- Starting trial: run-2
+{'num_units': 16, 'dropout': 0.1, 'optimizer': 'adam', 'learning_rate': 0.1}
+313/313 [==============================] - 1s 1ms/step - loss: 2.3132 - accuracy: 0.1000
+--- Starting trial: run-3
+{'num_units': 16, 'dropout': 0.1, 'optimizer': 'sgd', 'learning_rate': 0.001}
+313/313 [==============================] - 1s 1ms/step - loss: 2.3028 - accuracy: 0.1000
+--- Starting trial: run-4
+{'num_units': 16, 'dropout': 0.1, 'optimizer': 'sgd', 'learning_rate': 0.01}
+313/313 [==============================] - 1s 1ms/step - loss: 2.2914 - accuracy: 0.1034
+--- Starting trial: run-5
+{'num_units': 16, 'dropout': 0.1, 'optimizer': 'sgd', 'learning_rate': 0.1}
+313/313 [==============================] - 1s 1ms/step - loss: 1.3700 - accuracy: 0.3874
+--- Starting trial: run-6
+{'num_units': 16, 'dropout': 0.4, 'optimizer': 'adam', 'learning_rate': 0.001}
+313/313 [==============================] - 1s 969us/step - loss: 1.3773 - accuracy: 0.4098
+--- Starting trial: run-7
+{'num_units': 16, 'dropout': 0.4, 'optimizer': 'adam', 'learning_rate': 0.01}
+313/313 [==============================] - 1s 1ms/step - loss: 1.6134 - accuracy: 0.3203
+--- Starting trial: run-8
+{'num_units': 16, 'dropout': 0.4, 'optimizer': 'adam', 'learning_rate': 0.1}
+313/313 [==============================] - 0s 971us/step - loss: 2.1062 - accuracy: 0.1789
+--- Starting trial: run-9
+{'num_units': 16, 'dropout': 0.4, 'optimizer': 'sgd', 'learning_rate': 0.001}
+313/313 [==============================] - 1s 1ms/step - loss: 2.3026 - accuracy: 0.1000
+--- Starting trial: run-10
+{'num_units': 16, 'dropout': 0.4, 'optimizer': 'sgd', 'learning_rate': 0.01}
+313/313 [==============================] - 1s 1ms/step - loss: 2.3005 - accuracy: 0.1000
+--- Starting trial: run-11
+{'num_units': 16, 'dropout': 0.4, 'optimizer': 'sgd', 'learning_rate': 0.1}
+313/313 [==============================] - 1s 998us/step - loss: 1.5598 - accuracy: 0.3800
+--- Starting trial: run-12
+{'num_units': 32, 'dropout': 0.1, 'optimizer': 'adam', 'learning_rate': 0.001}
+313/313 [==============================] - 1s 1ms/step - loss: 1.0918 - accuracy: 0.5936
+--- Starting trial: run-13
+{'num_units': 32, 'dropout': 0.1, 'optimizer': 'adam', 'learning_rate': 0.01}
+313/313 [==============================] - 1s 1ms/step - loss: 1.6481 - accuracy: 0.2790
+--- Starting trial: run-14
+{'num_units': 32, 'dropout': 0.1, 'optimizer': 'adam', 'learning_rate': 0.1}
+313/313 [==============================] - 1s 1ms/step - loss: 1.9210 - accuracy: 0.1929
+--- Starting trial: run-15
+{'num_units': 32, 'dropout': 0.1, 'optimizer': 'sgd', 'learning_rate': 0.001}
+313/313 [==============================] - 1s 1ms/step - loss: 2.3026 - accuracy: 0.1000
+--- Starting trial: run-16
+{'num_units': 32, 'dropout': 0.1, 'optimizer': 'sgd', 'learning_rate': 0.01}
+313/313 [==============================] - 1s 1ms/step - loss: 2.2649 - accuracy: 0.1615
+--- Starting trial: run-17
+{'num_units': 32, 'dropout': 0.1, 'optimizer': 'sgd', 'learning_rate': 0.1}
+313/313 [==============================] - 1s 1ms/step - loss: 1.5665 - accuracy: 0.3166
+--- Starting trial: run-18
+{'num_units': 32, 'dropout': 0.4, 'optimizer': 'adam', 'learning_rate': 0.001}
+313/313 [==============================] - 1s 1ms/step - loss: 1.2782 - accuracy: 0.4703
+--- Starting trial: run-19
+{'num_units': 32, 'dropout': 0.4, 'optimizer': 'adam', 'learning_rate': 0.01}
+313/313 [==============================] - 1s 1ms/step - loss: 1.5032 - accuracy: 0.3721
+--- Starting trial: run-20
+{'num_units': 32, 'dropout': 0.4, 'optimizer': 'adam', 'learning_rate': 0.1}
+313/313 [==============================] - 1s 1ms/step - loss: 2.3172 - accuracy: 0.1000
+--- Starting trial: run-21
+{'num_units': 32, 'dropout': 0.4, 'optimizer': 'sgd', 'learning_rate': 0.001}
+313/313 [==============================] - 1s 1ms/step - loss: 2.3025 - accuracy: 0.1000
+--- Starting trial: run-22
+{'num_units': 32, 'dropout': 0.4, 'optimizer': 'sgd', 'learning_rate': 0.01}
+313/313 [==============================] - 1s 1ms/step - loss: 2.2941 - accuracy: 0.1062
+--- Starting trial: run-23
+{'num_units': 32, 'dropout': 0.4, 'optimizer': 'sgd', 'learning_rate': 0.1}
+313/313 [==============================] - 1s 914us/step - loss: 1.5227 - accuracy: 0.3721
