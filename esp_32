@@ -1,0 +1,29 @@
+## Initial steps to transform a regular TV into a SmartTV using an ESP32
+import machine
+import network
+import urequests
+
+# Configure the Wi-Fi connection
+sta_if = network.WLAN(network.STA_IF)
+sta_if.active(True)
+sta_if.connect("your_wifi_network", "your_password")
+
+# Function to display text on the screen
+def show_text(text):
+    # Code to display the text on the screen
+    # Depends on the graphics library you're using
+
+# Main loop
+while True:
+    # Get the time from an NTP server
+    response = urequests.get('http://worldtimeapi.org/api/timezone/America/Mexico_City')
+    data = response.json()
+    time_string = data['datetime']
+
+    # Display the time on the screen
+    show_text(time_string)
+
+    # Wait for one second
+    time.sleep(1)
+
+
