@@ -1,0 +1,1 @@
+Newton's method is a cool way to find the roots of a function, like where it crosses zero.  It basically makes a guess and then uses calculus to improve that guess.  You draw a tangent line at the guess and see where it hits the x-axis. That's your new guess, and you keep repeating until you're close enough.  It's kinda like sliding down a hill until you reach the bottom.
