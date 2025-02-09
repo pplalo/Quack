@@ -17,4 +17,6 @@ Convolutional layers are a fundamental component of Convolutional Neural Network
 - **Padding**: Adds extra pixels around the input data to control the spatial dimensions of the output.
 - **Activation Functions**: Commonly used ReLU (Rectified Linear Unit) to introduce non-linearity.
 
+## Error Aproximations
+
 
