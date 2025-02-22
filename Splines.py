@@ -1,0 +1,1 @@
+# Resolución of an spline aproximación method for interpolation
