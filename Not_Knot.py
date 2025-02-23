@@ -1,0 +1,1 @@
+# Aproximation using not knot conditions instead of natural spline conditions
